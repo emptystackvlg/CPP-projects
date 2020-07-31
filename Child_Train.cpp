@@ -37,6 +37,7 @@ int main()
 	cin >> res;
 	
 	if (res == 1) {
+		system("cls");
 		goto TryAgain;
 	}
 	
