@@ -259,25 +259,6 @@ int main()
 
     
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     else if (main == 0) {
         
         system("cls");
