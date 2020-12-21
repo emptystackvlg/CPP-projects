@@ -6,15 +6,11 @@ void factorial(int x)
 {
     int count = x ;
 
-    int i = 1 ;
-
     int sum = 1 ;
 
     while (count > 0) {
         
-        sum *= i ;
-
-        i += 1 ;
+        sum *= count ;
 
         count -= 1 ;
     }
